@@ -8,7 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      
+      colors: {
+        "bison-green": "#0A5640",
+        "bison-yellow": "#FFC72A"
+      }
     },
   },
   plugins: [],

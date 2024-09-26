@@ -3,6 +3,9 @@
 import "@mantine/core/styles.css"
 import { ColorSchemeScript, MantineProvider } from "@mantine/core"
 
+// Global CSS
+import "./globals.css"
+
 export const metadata = {
   title: "Bison Motorsports"
 }
