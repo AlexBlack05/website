@@ -4,7 +4,7 @@ import "@mantine/core/styles.css"
 import { ColorSchemeScript, MantineProvider } from "@mantine/core"
 
 export const metadata = {
-  title: "Bison's Motorsports"
+  title: "Bison Motorsports"
 }
 
 export default function RootLayout({
